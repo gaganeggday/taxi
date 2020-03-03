@@ -2,7 +2,7 @@
 
 ## About
 
-This reposi contains the source code, deployment manifests and CI/CD pipelines for the taxi application.
+This repos contains the source code, deployment manifests and CI/CD pipelines for the taxi application.
 
 ## Application Source code
 
