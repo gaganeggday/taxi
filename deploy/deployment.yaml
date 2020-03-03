@@ -2,7 +2,6 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: taxi
-  namespace: sample-dev-environment
   labels:
     app.kubernetes.io/name: taxi
     app.kubernetes.io/version: 0.0.1
