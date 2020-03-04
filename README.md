@@ -2,7 +2,7 @@
 
 ## About
 
-This contai the source code, deployment manifests and CI/CD pipelines for the taxi application.
+This conta the source code, deployment manifests and CI/CD pipelines for the taxi application.
 
 ## Application Source code
 
