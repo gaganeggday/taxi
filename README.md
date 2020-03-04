@@ -2,7 +2,7 @@
 
 ## About
 
-This re contains the source code, deployment manifests and CI/CD pipelines for the taxi application.
+This r contains the source code, deployment manifests and CI/CD pipelines for the taxi application.
 
 ## Application Source code
 
