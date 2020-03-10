@@ -32,5 +32,3 @@ spec:
       - name: web-files
         configMap:
           name: www-files
-      imagePullSecrets:
-        - name: kmcdermo-pull-secret
