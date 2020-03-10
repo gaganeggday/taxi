@@ -6,7 +6,7 @@ This  the source code, deployment manifests and CI/CD pipelines for the taxi app
 
 ## Application Source code
 
-The application source code resides in the `src` directory
+The application source code resides in the `src` director
 
 ## Pipelines
 
