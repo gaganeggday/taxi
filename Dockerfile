@@ -13,3 +13,4 @@ COPY --from=build /go/build/booktaxi .
 COPY --from=build /go/build/src/web/index.html /usr/share/booktaxi/
 EXPOSE 8080
 CMD ["./booktaxi"]
+#Just added this last line
