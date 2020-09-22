@@ -26,3 +26,4 @@ The CD pipeline deploys the kubernetes manifests of the `taxi` app to the `dev` 
 trigger
 Just to check if the pipelines work, just another change
 This is the change!Another chgange
+Small change
